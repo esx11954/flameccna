@@ -1,0 +1,55 @@
+【今日やること】
+・Day 2必須課題：Forms 30問／これだけシート3周（CS-006,010〜014）／対策問題5問
+・Ping-tコマンドsim：基本コマンド・IF/IPv6（C48, C49, C50, C54, C55, C56（6問））
+・次回講義範囲の予習。（すべてじゃなくてOK）
+・Slack チェックイン:white_check_mark:
+
+【ゴール】
+・VLAN/Trunk/VTP設定コマンドを即答
+・MAC学習・フラッディングを図で説明できる
+・Day 2 の主要用語を見て即答できる
+
+【青本参考ページ】
+・スイッチング動作 ─ 第 2 章 2.1 p.56〜61（復習）
+・VLAN／Trunk／VTP ─ 第 3 章 p.82〜99（復習）
+・VLAN 間ルーティング ─ 第 3 P.98 - 100（復習）
+
+【配布物】
+※新規配布なし。5/13 配布の CS-006・CS-010〜015（7 枚）を継続使用
+
+【予習範囲】
+・STP / RPVST ─ 第 2 章 2.2〜2.3 p.62〜80
+・HSRP / VRRP ─ 第 10 章 10.2〜10.3 p.262〜271
+・EtherChannel / LACP ─ 第 10 章 10.4〜10.5 p.272〜288
+・CDP / LLDP ─ 第 11 章 11.6 p.316〜321
+・Port Security ─ 第 12 章 12.2〜12.3 p.346〜364
+・RADIUS / 802.1X ─ 第 12 章 12.1 p.336〜339、第 13 章 13.3〜13.4 p.382〜389
+・Wireless関連（基礎 / SSID / ビーコン、WLC / Split MAC、CAPWAP / LAG / HA-SSO、APモード / FlexConnect） ─ 第 13 章 13.1〜13.2 p.366〜381
+
+【課題】
+▼ 必須課題
+・Forms 4 択 30 問（Day 2 範囲）
+・これだけシート CS-006・CS-010〜015 を 3 周
+・対策問題 NW Access 5 問
+・次回講義の予習
+
+▼ 任意課題
+・Network Access 分野の強化問題
+　問題
+　https://docs.google.com/document/d/100VkDdMMuBhH-D01IZha9Y7fOWwr13LG/edit?usp=drive_link&ouid=111170206738315764585&rtpof=true&sd=true
+　解答・解説
+　https://docs.google.com/document/d/12lNZixRcOzekkmDpkN8nzeYFZKDdhhiP/edit?usp=drive_link&ouid=111170206738315764585&rtpof=true&sd=true
+・Packet Tracer で VLAN／Trunk を組んでみる
+添付のPDFの課題5と6に挑戦してみましょう。
+https://drive.google.com/file/d/1YIanAb2-p6JBFVyVfJS-wdG6QQ3q9Nh1/view?usp=drive_link
+
+▼ 追加課題
+前回の小テストで８点以下だった方は以下の追加課題を完了したのちに再テストを受験してください。
+https://forms.gle/Hr8j44ikRQRJciHs7
+
+▼ 再テスト
+再テストは９割以上とれるまで繰り返し受験していただいてかまいません。
+期限：5/18 9:00まで
+https://forms.gle/kQxJMMTobdjd97Gr6
+
+焦らずペースを維持しましょう。
