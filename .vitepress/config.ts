@@ -19,7 +19,10 @@ function getAnnouncementSidebar() {
     })
     .map(file => {
       const name = file.replace('.md', '')
-      return { text: name, link: `/announcements/${name}` }
+      const content = fs.readFileSync(path.join(dir, file), 'utf-8')
+      const dateMatch = content.match(/^date:\s*"?(.+?)"?\s*$/m)
+      const text = dateMatch ? dateMatch[1] : name
+      return { text, link: `/announcements/${name}` }
     })
 }
 
