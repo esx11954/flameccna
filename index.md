@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: 最新の投稿
       link: /announcements/index
+    - theme: alt
+      text: 📅 イベントカレンダー
+      link: https://docs.google.com/spreadsheets/d/1vbia6ZudNTQb8kf4lgmgCupnmga0lLsaPOzzEK45Kuk/edit?usp=drive_link
 
 features:
   - icon: 📢
